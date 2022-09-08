@@ -24,10 +24,10 @@
             ],
             "styles": [
               "src/styles.css",
-              "./node-modules/bootstrao/dist/css/bootstrap.min.css"
+              "./node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
-            "scripts": ["./node-modules/bootstrao/dist/js/bootstrap.js",
-            "./node-modules/jquery/dist/jquery.js"
+            "scripts": ["./node_modules/bootstrap/dist/js/bootstrap.js",
+            "./node_modules/jquery/dist/jquery.js"
           ]
           },
           "configurations": {
