@@ -26,7 +26,9 @@
               "src/styles.css",
               "./node-modules/bootstrao/dist/css/bootstrap.min.css"
             ],
-            "scripts": ["./node-modules/bootstrao/dist/js/bootstrap.js"]
+            "scripts": ["./node-modules/bootstrao/dist/js/bootstrap.js",
+            "./node-modules/jquery/dist/jquery.js"
+          ]
           },
           "configurations": {
             "production": {
